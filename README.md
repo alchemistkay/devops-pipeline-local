@@ -74,8 +74,8 @@ Ensure you have the following installed on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/devops-cicd-pipeline.git
-cd devops-cicd-pipeline
+git clone https://github.com/alchemistkay/devops-pipeline-local.git
+cd devops-pipeline-local
 ```
 
 ### 2️⃣ Start Docker & Minikube
